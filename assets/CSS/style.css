@@ -64,7 +64,7 @@ main {
 }
 
 .player--active {
-    background-color: rgba(150, 149, 149, 0.4);
+    background-color: rgb(150, 149, 149);
 }
 .player--active .name {
     font-weight: 700;
